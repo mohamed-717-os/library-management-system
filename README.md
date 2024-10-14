@@ -9,6 +9,6 @@ I made some changes to this repository to integrate the SQL database with C# and
 
 The ERD and Relational mapping:
 
-[ERD and Relational mapping](ERD and Relational mapping.jpg)
+![ERD and Relational mapping](https://github.com/mohamed-717-os/library-management-system/blob/9afbed66a79fdcbc05c22b32e5bd1f6e64beeca5/ERD%20and%20Relational%20mapping.jpg)
 
-[mapping][mapping.png)
+![mapping](https://github.com/mohamed-717-os/library-management-system/blob/9afbed66a79fdcbc05c22b32e5bd1f6e64beeca5/mapping.png)
