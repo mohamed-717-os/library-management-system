@@ -7,7 +7,7 @@ I made some changes to this repository to integrate the SQL database with C# and
 
 **Here is the link to the YouTube video showcasing the project:** [https://youtu.be/2i9BZgT9yz8](https://youtu.be/2i9BZgT9yz8)
 
-The ERD and Relational mapping:
+### The ERD and Relational mapping:
 
 ![mapping](https://github.com/mohamed-717-os/library-management-system/blob/9afbed66a79fdcbc05c22b32e5bd1f6e64beeca5/mapping.png)
 
